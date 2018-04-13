@@ -1,0 +1,8 @@
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.deps.json
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.runtimeconfig.json
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.runtimeconfig.dev.json
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.dll
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.csprojResolveAssemblyReference.cache
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.csproj.CoreCompileInputs.cache
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.AssemblyInfoInputs.cache
+c:\users\freedom.nxumalo\source\repos\Sibusiso.ContactDetails.Service\hbulens.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\hbulens.ServiceBus.Publisher.AssemblyInfo.cs

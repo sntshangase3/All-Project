@@ -1,0 +1,226 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "1f8bda16a83768da87ec11cb0e0a6d1142f48c19"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Sibusiso.ServiceBus.Publisher/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "Sibusiso.ServiceBus.Reciever": "1.0.0"
+        },
+        "runtime": {
+          "Sibusiso.ServiceBus.Publisher.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "NServiceBus/7.0.0-rc0002": {
+        "dependencies": {
+          "System.Reflection.Emit": "4.3.0",
+          "System.Reflection.Emit.Lightweight": "4.3.0",
+          "System.Reflection.Metadata": "1.5.0",
+          "System.Security.Cryptography.Xml": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NServiceBus.Core.dll": {}
+        }
+      },
+      "System.IO/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Reflection/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Emit/4.3.0": {
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Emit.ILGeneration": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Emit.ILGeneration/4.3.0": {
+        "dependencies": {
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.3.0": {
+        "dependencies": {
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Emit.ILGeneration": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Metadata/1.5.0": {},
+      "System.Reflection.Primitives/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Security.Cryptography.Xml/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.Xml.dll": {}
+        }
+      },
+      "System.Text.Encoding/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Threading.Tasks/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "NServiceBus": "7.0.0-rc0002"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "Sibusiso.ServiceBus.Reciever/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "NServiceBus": "7.0.0-rc0002"
+        },
+        "runtime": {
+          "Sibusiso.ServiceBus.Reciever.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sibusiso.ServiceBus.Publisher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-joKW1JbL34HdyjqxRAbyz6plMmHMlef9O25uUOzAIj21g9BybCIgA/4G7dMpoTV4vgIEh/glIQJVYa4daJBl/w==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "NServiceBus/7.0.0-rc0002": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cwh1juASLZFh3dC2gw2ygubzUvB4Fkt6AQd5TuUHPkuPQlXpap4u236JyWme9SPsDtXCsN/1bINrMFhQRRPW6g==",
+      "path": "nservicebus/7.0.0-rc0002",
+      "hashPath": "nservicebus.7.0.0-rc0002.nupkg.sha512"
+    },
+    "System.IO/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YOhg0MAjQc/OOc/4v18dlpKxeXGJOKlvIeMlzrZt6UJXxRTcktrBkERN/pKJ0vNbvCsEkmVgTyN1IwfLvD/SFQ==",
+      "path": "system.io/4.3.0",
+      "hashPath": "system.io.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZoFVnu1grEizCUKtqv1lBjthbDOiKx/FVzmERt2hVbhCF269lNIReU9AI7k3ji68lB1q3h0yqjjFRzD2ceuBDw==",
+      "path": "system.reflection/4.3.0",
+      "hashPath": "system.reflection.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FbeakjQpfpIfq6fruZVDBdJExrmMGQglymrVxfGpbR9OFVzJMDW36nGxA4bdml3LjjjLcCKWIo03wkr57Y+T6Q==",
+      "path": "system.reflection.emit/4.3.0",
+      "hashPath": "system.reflection.emit.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.ILGeneration/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h3GBXtK7RQILpJUqh/p7xvMoP798HNUGpRsa+6+5/PnsR5RMtb3ujRNLFs6Z2iW0eglb5Qe94DDupRAypx/W6A==",
+      "path": "system.reflection.emit.ilgeneration/4.3.0",
+      "hashPath": "system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fo5sELFN0LoCMYa4kVyaVPh36K/JiptmqDvO9R1v6RJOUJ/T9KZG4udZx91nxD9FA2PSnGfC9+L7w/ZPxXDEpg==",
+      "path": "system.reflection.emit.lightweight/4.3.0",
+      "hashPath": "system.reflection.emit.lightweight.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Metadata/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-423hF/x1/1/aBT6hjgrp8RH2zdKOd1iTujlHisSesTW/cgv1ixUitfk23ZknVzItMm6jnwp9CBwI2P3r9jpitw==",
+      "path": "system.reflection.metadata/1.5.0",
+      "hashPath": "system.reflection.metadata.1.5.0.nupkg.sha512"
+    },
+    "System.Reflection.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-arBfV9vZpp1TizglidHsvXM/DLdPLzI+BByTUmN+48q8TW6XsVC1ZeFwr7Jf4rYjwoL6WQS/uGAI9tTh8TH7GQ==",
+      "path": "system.reflection.primitives/4.3.0",
+      "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AscJUaXz+sY18+TRtRRFPpwfweRC9qFFVxrgYDIW7DhFAdDvNeY6OCMPZEpOupwjzHkwUPn7plJW4z/ErcFR2A==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Xml/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Xubvo4i+K+DO6YzVh6vBKmCl5xx/cAoiJEze6VQ+XwVQU25KQC9pPrmniz2EbbJnmoQ5Rm2FFjHsfQAi0Rs+Q==",
+      "path": "system.security.cryptography.xml/4.4.0",
+      "hashPath": "system.security.cryptography.xml.4.4.0.nupkg.sha512"
+    },
+    "System.Text.Encoding/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uxf0q0c49DvUZU9VY1hdmugNjzMaZ0gISqWQt6ctgFzlAwhnX0wdUhFnHvzt5OQzRnPNgw0dVsmO098SPLsPOg==",
+      "path": "system.text.encoding/4.3.0",
+      "hashPath": "system.text.encoding.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0fdRJy8zKA3q6Hh1kcLRIuzbvL0O42RJMxKc6H+I1u6bg2gWc1llqpRulBQe9ue+IMc03Pn4FwnTTl22HWENNg==",
+      "path": "system.threading.tasks/4.3.0",
+      "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sibusiso.ServiceBus.Reciever/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

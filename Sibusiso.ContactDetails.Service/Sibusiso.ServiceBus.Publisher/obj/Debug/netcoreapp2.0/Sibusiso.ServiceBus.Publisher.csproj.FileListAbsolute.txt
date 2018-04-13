@@ -1,0 +1,15 @@
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.csprojResolveAssemblyReference.cache
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.AssemblyInfoInputs.cache
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.AssemblyInfo.cs
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.deps.json
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.runtimeconfig.json
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.runtimeconfig.dev.json
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.dll
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.pdb
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.dll
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\obj\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Publisher.pdb
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Reciever.dll
+C:\Users\Freedom.Nxumalo\source\repos\Sibusiso.ContactDetails.Service\Sibusiso.ServiceBus.Publisher\bin\Debug\netcoreapp2.0\Sibusiso.ServiceBus.Reciever.pdb
